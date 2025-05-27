@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Book Your Free Session Today!"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  image: appointment_pick_pic.jpg
   text: 'Discover how Psyukthi’s expert psychological training can elevate your career and personal growth. Take the first step toward lasting success and well-being!'
 #
 # Use the call for action to show a button on the frontpage
