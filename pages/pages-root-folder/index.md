@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Embrace your best with psyukthi"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'Elevate your career and personal growth with expert psychological training. Cultivate resilience, clarity, and confidence to thrive in every aspect of life. Psyukthi guides you toward success and lasting well-being!'
+  text: 'Elevate your career and personal growth with expert psychological training. Cultivate <em>resilience, clarity, and confidence</em> to thrive in every aspect of life. Psyukthi guides you toward success and lasting well-being!'
 widget3:
   title: "Book Your Free Session Today!"
   url: 'https://github.com/Phlow/feeling-responsive'
